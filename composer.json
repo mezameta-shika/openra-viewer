@@ -1,6 +1,7 @@
 {
 
     "name" : "ramz/openra-readyaml",
+    "description" : "a tool to show information from openra's YAML files",
     "require" : {
 	"mustangostang/spyc": "0.6.3"
     },
